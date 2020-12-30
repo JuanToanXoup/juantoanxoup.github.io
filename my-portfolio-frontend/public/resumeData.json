@@ -1,0 +1,132 @@
+{
+  "main": {
+    "name":"John Doan",
+    "occupation":"Software Engineer",
+    "description":"I am a programmer and problem solving fanatic. After my completion at Flatiron School, I am excited to combine my years of experience negotiating contracts, working with clients, and managing employees, with my new expertise in Ruby on Rails and JavaScript to a new passion as a developer. So far, it has been an outstanding combination of my skills and interest and I would like to find similar opportunities in the future.",
+    "image":"profilepic.jpeg",
+    "bio":" ",
+    "contactmessage":"Feel free to contact me via Email or Phone.",
+    "email": "JohnDoan42@gmail.com",
+    "phone": "281-902-6870",
+    "address":{
+      "street":"",
+      "city":"Houston",
+      "state":"Texas",
+      "zip": "77003"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"assets/Resume.pdf",
+    "social":[
+      {
+        "name":"medium",
+        "url":"https://medium.com/@johndoan42",
+        "className":"fa fa-medium"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/johndoan42/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/JuanToanXoup",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"Flatiron School",
+        "degree":"Certificate in Software Engineering",
+        "graduated":"October 2020",
+        "description":"After diving into HTML5 & CSS, I got comfortable with object-oriented programming, learning to read websites with Ruby and save data to a database with SQL and Object Relational Mappers. I learned two key Ruby frameworks, first mastering the fundamentals of web programming with Sinatra before experiencing how quickly they can build incredible apps with Rails. I gained a thorough understanding of JavaScript and functional programming and started to build my own version of React before moving onto the framework itself. I learned to build productive, scalable front-ends with React and Redux, creating slick, functional, reactive code with Redux as a state manager and Rails as the back-end JSON API."
+      },
+      {
+        "school":"University of Texas at San Antonio",
+        "degree":"Bachelor of Science in Electrcial Engineering",
+        "graduated":"May 2016",
+        "description":"The B.S. degree in Electrical Engineering at UTSA offered me the opportunity to prepare for careers in areas associated with electronics and microelectronics, digital systems, communications, digital signal and image processing, controls and robotics, computer-aided design (CAD), instrumentation, bioengineering, electric power engineering, and other traditional and emerging technology areas."
+      }
+    ],
+    "work":[
+      {
+        "company":"Phonoscope Inc.",
+        "title":"Business Analyst & Operations Assistant",
+        "years":"January 2019 - April 2020",
+        "description":"I was brought in to work in one of the largest privately owned telecommunications company’s Telecommunications License Agreements. After further analysis, it was found certain contracts were outdated that needed to be renewed or canceled. Only by simultaneously analyzing data from the Network Operations Center, Accounting, and Contract’s software, it was clear that thousands were wasted in outdated/unused contracts. After the completion of the Telecommunications License Agreement project,  I assisted the chief operating officer (COO) in the reorganization of Phonoscope’s processes. "
+      },
+      {
+        "company":"South Coast Technology, Inc.",
+        "title":"Project Manager & Quality Engineer",
+        "years":"July 2017 - December 2018",
+        "description":"SCT is a leader in engineering and manufacturing of turnkey solutions to industries including Oil & Gas, Energy, Pipeline, Refinery, and Food Processing. With an in-house engineering staff and fabrication shop, SCT designs and manufactures according to our customers’ needs. I was hired as a quality engineer to review and compare the manufactured product against the design. After learning the entire process from design to fabrication, I was better able to transition to my role as a project manager."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"60%"
+      },
+      {
+        "name":"Illustrator",
+        "level":"55%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"HTML5",
+        "level":"80%"
+      },
+      {
+        "name":"VueJs",
+        "level":"50%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Roll Call",
+        "category":"A website application for school administration to better acquire crucial data efficiently using an organized UI and QR code scanner.",
+        "image":"Roll_Call.png",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Mana Burn",
+        "category":"A website application for Magic the Gathering deck builders. Search through a database of cards and select which cards go into certain decks.",
+        "image":"Mana_Burn.png",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Quest & Key",
+        "category":"A Ruby on Rails and vanilla Javascript application that elevates the arithmetic learning experience through the power of competitive gaming. ",
+        "image":"Quest_&_Key.png",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"I went to Flatiron School coding bootcamp with John and I can say without a doubt that he was one of the smartest people in my cohort. He is really good at teaching others and explaining difficult concepts in an easily understandable manner. He lifted up other people around him and would never hesitate to help if you needed it. He's a super hard-working guy that would always have creative answers to complex problems. I look forward to hopefully working on other projects with him some day.",
+        "user":"Kiri Um"
+      },
+      {
+        "text":"John is an excellent person to connect with. His understanding of complex issues as well as his approach on how to handle them, set him aside from most people who would struggle in a stressful environment. He worked along side me throughout Flatiron and showed a lot of great leadership qualities with his ideas and his efforts to explain concepts to others. His projects were unique, creative, and geared towards helping others in some manner or another. I would highly recommend John for anything that pushes him to be a better version of himself and an environment that strives on teamwork and communication.",
+        "user":"Ted Neben"
+      }
+    ]
+  }
+}
