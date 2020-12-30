@@ -14,7 +14,7 @@
       "state":"Texas",
       "zip": "77003"
     },
-    "website": "http://www.timbakerdev.com",
+    "website": "http://john-toan-doan.com/",
     "resumedownload":"assets/Resume.pdf",
     "social":[
       {
@@ -35,7 +35,7 @@
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"Here are some skills that I have aqcuired",
     "education":[
       {
         "school":"Flatiron School",
@@ -67,31 +67,38 @@
     "skills":[
       {
         "name":"Git",
-        "level":"60%"
+        "image":"git.jpg",
+        "experience": "Git is a distributed version-control system for tracking changes in any set of files. Through Flatiron School's lab exercises, projects and other sources of continued learning, I am able to develop my mastery in non-linear workflows."
       },
       {
-        "name":"Illustrator",
-        "level":"55%"
+        "name":"bootstrap",
+        "image":"bootstrap.jpg",
+        "experience": ""
       },
       {
         "name":"ReactJs",
-        "level":"50%"
+        "image":"react.jpg",
+        "experience": "React is an open-source, front end, JavaScript library for building user interfaces or UI components. This website, and my personal projects, Roll Call and Mana Burn, are all created using React JS."
       },
       {
-        "name":"CSS",
-        "level":"90%"
+        "name":"Python",
+        "image":"python.jpg",
+        "experience": ""
       },
       {
-        "name":"HTML5",
-        "level":"80%"
+        "name":"Java",
+        "image":"java.jpg",
+        "experience": "Java is a set of computer software and specifications that provides a system for developing application software and deploying it in a cross-platform computing environment. My experience in Java comes from the completion of InfoSys WingSpan's Java Programming Fundementals Course."
       },
       {
-        "name":"VueJs",
-        "level":"50%"
+        "name":"Node",
+        "image":"node.jpg",
+        "experience": ""
       },
       {
         "name":"MongoDB",
-        "level":"80%"
+        "image":"mongo.jpg",
+        "experience": ""
       }
     ]
   },
@@ -100,20 +107,20 @@
       {
         "title":"Roll Call",
         "category":"A website application for school administration to better acquire crucial data efficiently using an organized UI and QR code scanner.",
-        "image":"Roll_Call.png",
-        "url":"https://www.canadianwanderlust.com"
+        "image":"Roll_Call_Website.png",
+        "url":"https://www.youtube.com/watch?v=qxrNXvIu1GE"
       },
       {
         "title":"Mana Burn",
         "category":"A website application for Magic the Gathering deck builders. Search through a database of cards and select which cards go into certain decks.",
-        "image":"Mana_Burn.png",
-        "url":"http://www.timbakerdev.com"
+        "image":"Mana_Burn_Website.png",
+        "url":"https://www.youtube.com/watch?v=UgkZmbHIr4g"
       },
       {
         "title":"Quest & Key",
         "category":"A Ruby on Rails and vanilla Javascript application that elevates the arithmetic learning experience through the power of competitive gaming. ",
-        "image":"Quest_&_Key.png",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "image":"Quest_&_Key_Website.png",
+        "url":"https://www.youtube.com/watch?v=Zu0ebe5DmQo"
       }
     ]
   },
