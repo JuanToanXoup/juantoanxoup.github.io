@@ -1,5 +1,6 @@
 {
   "name": "my-portfolio-frontend",
+  "homepage": "http://john-toan-doan.com/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
